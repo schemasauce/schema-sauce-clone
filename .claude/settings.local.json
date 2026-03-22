@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:schemasauce.com)",
+      "Bash(wget:*)",
+      "Bash(curl:*)",
+      "Bash(python3.14:*)",
+      "Bash(py:*)",
+      "Bash(gh repo:*)",
+      "Bash(gh auth:*)",
+      "Bash(cmd.exe:*)"
+    ]
+  }
+}
