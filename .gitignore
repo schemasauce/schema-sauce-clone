@@ -2,3 +2,10 @@ wget-log*
 .DS_Store
 Thumbs.db
 mirror.py
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
